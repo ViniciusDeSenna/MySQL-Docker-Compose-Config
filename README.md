@@ -1,2 +1,2 @@
-# MySQL-Docker-Compose-Config
+# MySQLDockerComposeConfig
 Configuração basica de .yml para um container de MySQL
